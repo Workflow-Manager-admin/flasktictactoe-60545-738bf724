@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'A Tic Tac Toe game backend powered by Flask.', 'containers': [{'container_name': 'tic_tac_toe_backend', 'platform': 'backend', 'framework': 'flask', 'description': 'Backend service providing API endpoints for managing Tic Tac Toe games, moves, and game logic.', 'interfaces': 'RESTful APIs for creating games, making moves, and retrieving game state.', 'workspace': 'tic_tac_toe_backend_workspace', 'container_root': 'tic_tac_toe_backend_workspace/tic_tac_toe_backend', 'dependencies': [], 'container_type': 'backend', 'container_details': 'Implements the game logic, user sessions, and exposes endpoints to interact with the Tic Tac Toe game.'}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}
